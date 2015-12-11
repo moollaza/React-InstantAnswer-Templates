@@ -1,4 +1,4 @@
-# DuckDuckHack Instant Answer Template Experiments
+# DuckDuckHack IA Template Experiments
 
 A sandbox for me to test ideas...There's not much to see here...
 
